@@ -36,7 +36,7 @@ The console program will automatically perform statistics and print out the rele
 
 
 
-At present, the program is still being perfected, and "`Email Reminders`" and more automated functions will be added later. You can continue to pay attention to this project.
+At present, the program is still being perfected.  "`Email Reminders`" and more automated functions will be added later. You can continue to pay attention to this project.
 
 That's Reapey! You can add features and modify programs by yourself, so have fun!
 
