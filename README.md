@@ -28,7 +28,7 @@ There are three things you need to do before running the `Reapey.py` program
 
 1. You need to configure the running environment for your python program to run
 2. You need to add the "`Name`" and "`Student number`" in the `list.txt` text. They must be separated by "`:`" (Note: English characters must be used!)
-3. You need to put the files you want to count in the `files` folder and you need to name them ("`Student ID`" + "`Name`"). It is worth mentioning that if you only use the "`name`" to name the file, the program will automatically match the corresponding student number in the "`list.txt`" list and correctly name all files correctly
+3. You need to put the files you want to count in the `file` folder and you need to name them ("`Student ID`" + "`Name`"). It is worth mentioning that if you only use the "`name`" to name the file, the program will automatically match the corresponding student number in the "`list.txt`" list and correctly name all files correctly
 
 Once you have completed the above operations, you can run the program smoothly.
 
